@@ -1,5 +1,4 @@
-
-<h1 align="center"><b>SynergyControl</b> - La unión inteligente para gestionar, controlar y potenciar tu negocio</h1>
+<h1 align="center">*** <b>System Base</b> ***</h1>
 
 <p align="center">Servicio API del lado del backend</p>
 
@@ -34,11 +33,12 @@ Es necesario crear una base de datos, en este caso se hará uso de Docker para c
 docker compose up -d
 ```
 
-* '-d' hace referencia a la propiedad __"detached"__ 
+* '-d' hace referencia a la propiedad __"detached"__
 
 ## MongoDB URL
 
-Para la conexión con la herramienta MongoDB compass se utilizara la URI de mongo, si es cloud se utilizara la URI proporcionada por mongo.
+Para la conexión con la herramienta MongoDB compass se utilizara la URI de mongo, si es cloud se utilizara la URI
+proporcionada por mongo.
 
 En local se hace uso de la siguiente URI:
 
